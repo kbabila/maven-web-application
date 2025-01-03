@@ -9,11 +9,15 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Dubai23 Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class33 will start on July 15, 2023. </h1>
+<h1 align="center">Welcome to Tesla Web application Project.</h1>
+<h1 align="center">Landmark Software Solutions (LSS)  are developing and supporting quality Software Solutions to millions of clients globally.
+	           We are raising billionaires IT professionals accross the nations of the World.
+	Landmark Software Solutions (LSS) offers Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
+        Landmark Technologies, the Pride of Africa.
+	Class37 DevOps MasterClass started on July 13, 2024.
+        Class38 DevOps MasterClass will start on Oct 19, 2024.
+        Please invite all your contacts and friends for this life changing course.
+</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
